@@ -1,6 +1,6 @@
 # Fuzzing targets
 
-My collection of various fuzzing targets that have been widely used in the fuzzing literature (in both academia and industry). I have tried to fuzz most of the following programs using [my corpus](), and founded several [bugs](). 
+My collection of various fuzzing targets that have been widely used in the fuzzing literature (in both academia and industry). I have tried to fuzz most of the following programs using [my corpus](https://github.com/strongcourage/fuzzing-corpus), and founded several [bugs](http://strongcourage.github.io/bugs/). 
 
 ## Image processing
 1. [jhead](http://www.sentex.net/~mwandel/jhead)
