@@ -39,7 +39,7 @@ My collection of various fuzzing targets that have been widely used in the fuzzi
 10. [gpmf-parser](https://github.com/gopro/gpmf-parser)
 11. [faac](https://sourceforge.net/projects/faac)
 
-## Document (text/PDF) processing
+## Document (text/PDF/programming language) processing
 1. [pdf2json](https://github.com/flexpaper/pdf2json)
 2. [podofo](https://sourceforge.net/projects/podofo)
 3. [mupdf](https://git.ghostscript.com/?p=mupdf.git;a=summary)
@@ -55,6 +55,11 @@ My collection of various fuzzing targets that have been widely used in the fuzzi
 13. [json-parser](https://github.com/udp/json-parser)
 14. [pdfalto](https://github.com/kermitt2/pdfalto)
 15. [libofx](https://github.com/libofx/libofx)
+16. [Perl](https://perl5.git.perl.org/perl.git)
+17. [libsass](https://github.com/sass/libsass)
+18. [libical](https://github.com/libical/libical)
+19. [libtorrent](https://github.com/arvidn/libtorrent)
+20. [libredwg](https://github.com/LibreDWG/libredwg)
 
 ## Binary processing
 1. [binutils](https://sourceware.org/git/?p=binutils-gdb.git)
