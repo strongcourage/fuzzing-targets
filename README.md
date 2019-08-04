@@ -38,6 +38,10 @@ My collection of various fuzzing targets that have been widely used in the fuzzi
 9. [audiofile](https://github.com/mpruett/audiofile)
 10. [gpmf-parser](https://github.com/gopro/gpmf-parser)
 11. [faac](https://sourceforge.net/projects/faac)
+12. [openh264](https://github.com/cisco/openh264)
+13. [mpg123](http://www.mpg123.org)
+14. [mpg321](http://mpg321.sourceforge.net)
+15. [mp3gain](https://sourceforge.net/projects/mp3gain/files/mp3gain)
 
 ## Document (text/PDF/programming language) processing
 1. [pdf2json](https://github.com/flexpaper/pdf2json)
@@ -60,12 +64,14 @@ My collection of various fuzzing targets that have been widely used in the fuzzi
 18. [libical](https://github.com/libical/libical)
 19. [libtorrent](https://github.com/arvidn/libtorrent)
 20. [libredwg](https://github.com/LibreDWG/libredwg)
+21. [logrotate](https://github.com/logrotate/logrotate)
 
 ## Binary processing
 1. [binutils](https://sourceware.org/git/?p=binutils-gdb.git)
 2. [elfutils](https://sourceware.org/elfutils)
 3. [yasm](https://github.com/yasm/yasm)
-4. [recutils](https://www.gnu.org/software/recutils/)
+4. [recutils](https://www.gnu.org/software/recutils)
+5. [pax-utils](https://gitweb.gentoo.org/proj/pax-utils.git)
 
 ## Data archiving
 1. [libzip](https://github.com/nih-at/libzip)
@@ -76,6 +82,7 @@ My collection of various fuzzing targets that have been widely used in the fuzzi
 6. [muxzcat](https://github.com/pts/muxzcat)
 7. [lz4](https://github.com/lz4/lz4)
 8. [gzip](http://git.savannah.gnu.org/cgit/gzip.git)
+9. [p7zip](https://sourceforge.net/projects/p7zip)
 
 ## Web development
 1. [PHP](https://github.com/php/php-src)
@@ -88,3 +95,4 @@ My collection of various fuzzing targets that have been widely used in the fuzzi
 3. [xdrpp](https://github.com/xdrpp/xdrpp)
 4. [ghostpdl](http://git.ghostscript.com/?p=ghostpdl.git;a=summary)
 5. [nfdump](https://github.com/phaag/nfdump)
+6. [dosfstools](https://github.com/dosfstools/dosfstools)
